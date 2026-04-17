@@ -3,8 +3,8 @@ require "language/node"
 class LlamaindexLiteparse < Formula
   desc "Open-source PDF parsing with spatial text extraction and OCR processing"
   homepage "https://github.com/run-llama/liteparse#readme"
-  url "https://registry.npmjs.org/@llamaindex/liteparse/-/liteparse-1.5.0.tgz"
-  sha256 "071dbe06cf76212a55608bd49036f5579c722282890be96287c97ab806d86de2"
+  url "https://registry.npmjs.org/@llamaindex/liteparse/-/liteparse-1.5.1.tgz"
+  sha256 "f876106b00badc848bc7280c09b45ab2e57bb55be9cc9c79cef2c8cabfcd1570"
   license "Apache-2.0"
 
   livecheck do
